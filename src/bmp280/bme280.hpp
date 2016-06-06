@@ -28,7 +28,7 @@
 #include <mraa/spi.hpp>
 #include <mraa/gpio.hpp>
 
-#include "upm/iHumiditySensor.hpp"
+#include "iHumiditySensor.hpp"
 
 #include "bmp280.hpp"
 
