@@ -28,8 +28,8 @@
 #include <mraa/spi.hpp>
 #include <mraa/gpio.hpp>
 
-#include "./upm/iPressureSensor.hpp"
-#include "./upm/iTemperatureSensor.hpp"
+#include "upm/iPressureSensor.hpp"
+#include "upm/iTemperatureSensor.hpp"
 
 #define BMP280_DEFAULT_I2C_BUS 1
 #define BMP280_DEFAULT_SPI_BUS 0
