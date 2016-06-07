@@ -32,9 +32,9 @@
 
 #include "bmp280.hpp"
 
-#define BME280_DEFAULT_I2C_BUS 1
+#define BME280_DEFAULT_I2C_BUS 6
 #define BME280_DEFAULT_SPI_BUS 0
-#define BME280_DEFAULT_ADDR 0x77
+#define BME280_DEFAULT_ADDR 0x76
 #define BME280_DEFAULT_CHIPID 0x60
 
 namespace upm {

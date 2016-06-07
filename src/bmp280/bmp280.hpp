@@ -31,9 +31,9 @@
 #include "iPressureSensor.hpp"
 #include "iTemperatureSensor.hpp"
 
-#define BMP280_DEFAULT_I2C_BUS 1
+#define BMP280_DEFAULT_I2C_BUS 6
 #define BMP280_DEFAULT_SPI_BUS 0
-#define BMP280_DEFAULT_ADDR 0x77
+#define BMP280_DEFAULT_ADDR 0x76
 #define BMP280_DEFAULT_CHIPID 0x58
 
 namespace upm {
